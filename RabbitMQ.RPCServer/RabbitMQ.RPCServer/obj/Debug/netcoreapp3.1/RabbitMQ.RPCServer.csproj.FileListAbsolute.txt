@@ -1,0 +1,15 @@
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\obj\Debug\netcoreapp3.1\RabbitMQ.RPCServer.AssemblyInfoInputs.cache
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\obj\Debug\netcoreapp3.1\RabbitMQ.RPCServer.AssemblyInfo.cs
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\obj\Debug\netcoreapp3.1\RabbitMQ.RPCServer.csproj.CoreCompileInputs.cache
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.RPCServer.exe
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.RPCServer.deps.json
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.RPCServer.runtimeconfig.json
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.RPCServer.runtimeconfig.dev.json
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.RPCServer.dll
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.RPCServer.pdb
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\obj\Debug\netcoreapp3.1\RabbitMQ.RPCServer.csproj.CopyComplete
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\obj\Debug\netcoreapp3.1\RabbitMQ.RPCServer.dll
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\obj\Debug\netcoreapp3.1\RabbitMQ.RPCServer.pdb
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCServer\RabbitMQ.RPCServer\obj\Debug\netcoreapp3.1\RabbitMQ.RPCServer.genruntimeconfig.cache

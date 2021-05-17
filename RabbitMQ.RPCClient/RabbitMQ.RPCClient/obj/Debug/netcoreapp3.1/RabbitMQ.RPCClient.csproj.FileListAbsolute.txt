@@ -1,0 +1,15 @@
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\bin\Debug\netcoreapp3.1\RabbitMQ.RPCClient.exe
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\bin\Debug\netcoreapp3.1\RabbitMQ.RPCClient.deps.json
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\bin\Debug\netcoreapp3.1\RabbitMQ.RPCClient.runtimeconfig.json
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\bin\Debug\netcoreapp3.1\RabbitMQ.RPCClient.runtimeconfig.dev.json
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\bin\Debug\netcoreapp3.1\RabbitMQ.RPCClient.dll
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\bin\Debug\netcoreapp3.1\RabbitMQ.RPCClient.pdb
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\obj\Debug\netcoreapp3.1\RabbitMQ.RPCClient.AssemblyInfoInputs.cache
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\obj\Debug\netcoreapp3.1\RabbitMQ.RPCClient.AssemblyInfo.cs
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\obj\Debug\netcoreapp3.1\RabbitMQ.RPCClient.csproj.CoreCompileInputs.cache
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\obj\Debug\netcoreapp3.1\RabbitMQ.RPCClient.csproj.CopyComplete
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\obj\Debug\netcoreapp3.1\RabbitMQ.RPCClient.dll
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\obj\Debug\netcoreapp3.1\RabbitMQ.RPCClient.pdb
+D:\Practicals\RabbitMQ\RPC\RabbitMQ.RPCClient\RabbitMQ.RPCClient\obj\Debug\netcoreapp3.1\RabbitMQ.RPCClient.genruntimeconfig.cache
